@@ -1,3 +1,3 @@
 function something3(){
-	window.alert("LOL");
+	console.log("LOL");
 }
